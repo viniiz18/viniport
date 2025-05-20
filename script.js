@@ -1,0 +1,1 @@
+// Script JS (vazio para esta atividade)
